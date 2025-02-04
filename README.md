@@ -217,3 +217,6 @@ ORDER BY year;
 - Amazon had the highest number of laid off (18150), followed by Google(12000) and Meta(11000).
 - The top five industries hit the most were consumer, retail, transportation, finance, and healthcare.
 - The top five countries with the most laid off employees were United States, India, Netherlands, Sweden, and Brazil.
+
+### References 
+[Alex The Analyst](https://youtu.be/4UltKCnnnTA?si=U-VgjWZO9SWHppWg)
